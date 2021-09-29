@@ -1,0 +1,15 @@
+1632728824584	geckodriver	INFO	Listening on 127.0.0.1:40861
+1632728825706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\Karthik\\AppData\\Local\\Temp\\rust_mozprofilejQWRnc"
+1632728832149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Karthik\\AppData\\Local\\Temp\\rust_mozprofilejQWRnc\\search.json.mozlz4", (void 0)))
+1632728858073	Marionette	INFO	Listening on port 62651
+1632728859169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5JKLVK&l=dataLayer, line 36: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5JKLVK&l=dataLayer, line 36: uncaught exception: [object Object]
+1632728875792	Marionette	INFO	Stopped listening on port 62651
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5JKLVK&l=dataLayer, line 36: uncaught exception: [object Object]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
